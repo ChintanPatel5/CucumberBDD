@@ -1,0 +1,6 @@
+testrunners\MyTestRunSet.class
+AppHooks\ApplicationHooks.class
+testrunners\TestngParallelRunSet.class
+testrunners\FailedScenariosRunSet.class
+stepdefinitions\HomePageSteps.class
+stepdefinitions\LoginPageSteps.class
