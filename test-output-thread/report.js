@@ -1,59 +1,59 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "cef5c752-cfb4-46d9-9134-4d846d305693",
-    "feature": "Account Page Feature",
-    "scenario": "Menu section count",
-    "start": 1643262352601,
-    "group": 14,
-    "content": "",
-    "tags": "@accounts,",
-    "end": 1643262369771,
-    "className": "passed"
-  },
-  {
-    "id": "df1457b9-9804-4e2a-b225-21247c792cf1",
+    "id": "238248a4-a562-45a4-ad75-e31c9d3f154a",
     "feature": "Login page feature",
     "scenario": "Login page title",
-    "start": 1643262352600,
+    "start": 1643264973771,
     "group": 15,
     "content": "",
     "tags": "",
-    "end": 1643262367968,
+    "end": 1643264988166,
     "className": "passed"
   },
   {
-    "id": "4ff19bb6-d270-4c0f-8e22-5f013a8cf4b8",
+    "id": "dadab0d6-5967-455f-83fc-eb3c19ee65cf",
     "feature": "Account Page Feature",
     "scenario": "Home page title",
-    "start": 1643262352601,
+    "start": 1643264973771,
     "group": 13,
     "content": "",
     "tags": "@accounts,",
-    "end": 1643262367903,
+    "end": 1643264988131,
     "className": "passed"
   },
   {
-    "id": "0464e713-c56e-45d5-bf36-ce9aaa5182cd",
-    "feature": "Login page feature",
-    "scenario": "Login with correct credentials",
-    "start": 1643262352599,
-    "group": 17,
-    "content": "",
-    "tags": "@sanity,",
-    "end": 1643262367935,
-    "className": "passed"
-  },
-  {
-    "id": "c45fe0b2-e292-4146-8653-5722afb91efc",
+    "id": "1b3b4128-4f87-4d60-95f0-1ffff738552b",
     "feature": "Login page feature",
     "scenario": "Forgot Password link",
-    "start": 1643262352432,
+    "start": 1643264973613,
     "group": 16,
     "content": "",
     "tags": "",
-    "end": 1643262367998,
-    "className": "failed"
+    "end": 1643264988165,
+    "className": "passed"
+  },
+  {
+    "id": "0da13e2a-56ac-4994-b4e2-c4f2299cb24e",
+    "feature": "Login page feature",
+    "scenario": "Login with correct credentials",
+    "start": 1643264973769,
+    "group": 17,
+    "content": "",
+    "tags": "@sanity,",
+    "end": 1643264988179,
+    "className": "passed"
+  },
+  {
+    "id": "ce888c6e-ea03-4e87-ad7f-0bc47bc49ec5",
+    "feature": "Account Page Feature",
+    "scenario": "Menu section count",
+    "start": 1643264973772,
+    "group": 14,
+    "content": "",
+    "tags": "@accounts,",
+    "end": 1643264989733,
+    "className": "passed"
   }
 ]);
 CucumberHTML.timelineGroups.pushArray([
