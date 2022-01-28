@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: testrunners.TestngParallelRunSet
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.732 s - in testrunners.TestngParallelRunSet
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.954 s - in testrunners.TestngParallelRunSet
